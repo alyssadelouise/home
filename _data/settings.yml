@@ -1,0 +1,37 @@
+#-------------------------------
+# General Site Settings
+title: Alyssa DeLouise
+logo: newlogo.png
+description: Welcome to the life of Lys!
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Alyssa DeLouise
+  image: Headshot1.jpg
+  say-hello: Hello, I’m <strong>Alyssa DeLouise</strong>
+  bio: I am a <strong>first-gen, female in STEM </strong>here to share my experiences! I am passionate about all things tech- from <strong>design</strong> to <strong>hardware</strong>. As an <strong>aspiring electrical techie in product, business, and engineering</strong>, I aim to build the bridge between engineers and their visionary counterparts. In my <strong>free time</strong>, I love painting, hiking, doing yoga, and playing video games!
+
+
+#-------------------------------
+# Contact links
+instagram: https://www.instagram.com/alyssadelouise/
+linkedin: https://www.linkedin.com/in/AlyssaDeLouise/
+github: https://github.com/alyssadelouise
+twitter: https://twitter.com/alyssachelsea6
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
