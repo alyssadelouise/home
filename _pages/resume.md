@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+image: resumehead.png
 permalink: /resume/
 ---
 Below you can find my most recently updated resume. To see what I am up to currently- check out my LinkedIn! (https://www.linkedin.com/in/AlyssaDeLouise/)
