@@ -1,5 +1,5 @@
 ---
-layout: pageresume.html
+layout: pageresume
 title: Resume
 permalink: /resume/
 ---
