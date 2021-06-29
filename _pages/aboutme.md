@@ -31,4 +31,12 @@ In my <strong>free time</strong>, I am an ambassador for the Female Laboratory o
 * Host another webinar series and reach even more young, STEM students!
 * Share my research with the industry
 
+### Certifications
+
+* Data Ethics: Making Data Driven Decisions
+* Ethics and Law in Data Analytics
+* Technology and Design Ethics
+* Tech Ethics: Avoiding Unintended Consequences
+* Social Impact Strategy: Tools for Entrepreneurs and Innovators
+
 
