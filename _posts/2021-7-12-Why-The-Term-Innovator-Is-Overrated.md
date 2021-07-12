@@ -2,7 +2,7 @@
 layout: post
 title:  Why the Term "Innovator" is Overrated, and Why I Don't Care
 date:   2021-07-12 15:01:35 +0300
-image:  IMG_6492.jpg
+image:  innovation.jpg
 tags:   innovator imposter syndrome
 ---
 It is no secret that engineering is a difficult area to go in to. At Purdue, ECE is notorious for being a "weedout" or the undesireable major, yet most ECEs at Purdue love what they do. They find strength in the challenge and use failures to drive progress and confidence to drive curiosity and innovation. Before students even get to Purdue, they know ECE is hard and can have a huge impact on whether or not someone decides to choose ECE for their major. This especially targets first generation and minority students who may not have had prior experience or a strong support network to get them through the transition to engineering and especially ECE.
